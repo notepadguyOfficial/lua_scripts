@@ -1,1 +1,1 @@
-# lua_scripts
+Custom Scripts for Azerothcore
